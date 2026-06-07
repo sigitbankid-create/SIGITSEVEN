@@ -1,0 +1,6 @@
+{
+  "name": "Kepegawaian & Biodata",
+  "description": "Aplikasi manajemen data kepegawaian dan biodata lengkap karyawan berbasis database lokal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
